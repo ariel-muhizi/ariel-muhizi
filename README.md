@@ -1,13 +1,14 @@
 **Hi there, I'm Ariel! 👋**
 
 - 🌍 Based in Kigali, Rwanda
-- 💻 Pulse Support Officer @ Bboxx | Passionate about Data Science and Python Scripting
+- 💻 Software Engineer Support @ Bboxx | Passionate about Data Science and Python Scripting
 
 **🚀 What I do:**
 
-- Solve technical challenges for global teams
-- Develop tools and scripts for process optimization
-- Analyze and visualize data for actionable insights
+- Develop Python-based automation solutions to streamline workflows
+- Collaborate with global teams to troubleshoot and resolve technical issues
+- Create tools for data analysis and process optimization
+- Support and maintain software platforms to ensure smooth operations
 
 **🎯 What I'm working towards:**
 
